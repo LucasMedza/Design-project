@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    top: 0px;
+    text-align: center;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    padding: 0%;
+}
+
+
+.Search{
+    margin-top: 0%;
+    margin-left: 3px;
+}
+
+.Login{
+    margin-top: 0%;
+    margin-right: 3px;
+}
+
+.About{
+    margin-bottom: 0%;
+}
+
+img{
+    width: 100%;
+    height: 110%;
+    margin-top: -75px;
+    position: relative;
+}
+
+.animal_sq {
+    width: 170px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 10px 20px;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+}
+
+.animal_desc {
+    font-size: 14px;
+    height: 150px;
+}
+
+.Birds {
+    background-image: url(https://static.scientificamerican.com/sciam/cache/file/7A715AD8-449D-4B5A-ABA2C5D92D9B5A21_source.png);
+}
+
+.Mammals{
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/23/2020/01/SupriyaDam_Tiger_04-9368aaa.jpg?quality=90&crop=1px,170px,731px,487px&resize=620,413);
+}
+
+.Insects{
+    background-image: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_2042,w_3036,x_0,y_73/v1554752078/shape/mentalfloss/istock-483749258.jpg?itok=jW8WsgSU);
+}
+
+.Amphibians{
+    background-image: url(https://i.natgeofe.com/n/1abfa9bc-c300-4ac3-adf0-76002c030f0f/NationalGeographic_1380992_3x4.jpg);
+}
+
+.Fishes{
+    background-image: url(https://cdn.mos.cms.futurecdn.net/RY2EpSo74hvYXyAVpTN2Gg.jpg);
+}
+
+.Reptiles{
+    background-image: url(https://i.natgeofe.com/n/f80a6834-c7d0-4e93-b113-ae708652a527/snakes_01_square.jpg);
+}
+
+
+
+
+
